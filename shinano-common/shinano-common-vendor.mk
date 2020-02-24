@@ -91,9 +91,11 @@ PRODUCT_COPY_FILES += \
     vendor/sony/shinano-common/proprietary/lib/camera/libexcal_snapshot_ctrl_plugin.so:$(TARGET_COPY_OUT_SYSTEM)/lib/camera/libexcal_snapshot_ctrl_plugin.so \
     vendor/sony/shinano-common/proprietary/lib/camera/libexcal_splitter_plugin.so:$(TARGET_COPY_OUT_SYSTEM)/lib/camera/libexcal_splitter_plugin.so \
     vendor/sony/shinano-common/proprietary/lib/camera/libexcal_streaming_ctrl_plugin.so:$(TARGET_COPY_OUT_SYSTEM)/lib/camera/libexcal_streaming_ctrl_plugin.so \
+    vendor/sony/shinano-common/proprietary/vendor/lib/hw/audio.primary.msm8974.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/audio.primary.msm8974.so \
     vendor/sony/shinano-common/proprietary/lib/hw/camera.vendor.qcom.so:$(TARGET_COPY_OUT_SYSTEM)/lib/hw/camera.vendor.qcom.so \
     vendor/sony/shinano-common/proprietary/lib/lib_asb_tee.so:$(TARGET_COPY_OUT_SYSTEM)/lib/lib_asb_tee.so \
     vendor/sony/shinano-common/proprietary/lib/lib_get_secure_mode.so:$(TARGET_COPY_OUT_SYSTEM)/lib/lib_get_secure_mode.so \
+    vendor/sony/shinano-common/proprietary/vendor/lib/libaudioroute.so:$(TARGET_COPY_OUT_VENDOR)/lib/libaudioroute.so \
     vendor/sony/shinano-common/proprietary/lib/libcacao_chokoball.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libcacao_chokoball.so \
     vendor/sony/shinano-common/proprietary/lib/libcacao_client.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libcacao_client.so \
     vendor/sony/shinano-common/proprietary/lib/libcacao_common.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libcacao_common.so \
