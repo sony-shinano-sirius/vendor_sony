@@ -115,6 +115,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/shinano-common/proprietary/lib/libcameralight.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libcameralight.so \
     vendor/sony/shinano-common/proprietary/lib/libcammw.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libcammw.so \
     vendor/sony/shinano-common/proprietary/lib/libcredential-manager-service.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libcredential-manager-service.so \
+    vendor/sony/shinano-common/proprietary/lib/libaptXHD_encoder.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libaptXHD_encoder.so \
     vendor/sony/shinano-common/proprietary/lib/libexcal_core.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libexcal_core.so \
     vendor/sony/shinano-common/proprietary/lib/libexcal_system.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libexcal_system.so \
     vendor/sony/shinano-common/proprietary/vendor/lib/libidd.so:$(TARGET_COPY_OUT_VENDOR)/lib/libidd.so \
